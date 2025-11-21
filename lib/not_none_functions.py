@@ -1,2 +1,2 @@
 def return_not_none():
-    return None
+    return "The function now returns a string instead of None."
